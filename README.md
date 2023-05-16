@@ -1,2 +1,2 @@
 # ForLoopDenemeleri
-##Öğrenirken yazdıklarım :)
+Öğrenirken yazdıklarım :)
